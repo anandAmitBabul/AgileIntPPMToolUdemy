@@ -123,9 +123,5 @@ public class Project {
 	public void setUpdated_At(Date updated_At) {
 		this.updated_At = updated_At;
 	}
-	
-	
-	
-}
-
+		
 }
